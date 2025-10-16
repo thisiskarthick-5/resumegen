@@ -5,17 +5,17 @@ A fully-fledged React-based ATS Resume Generator that produces resumes scoring 9
 ## Features
 
 ### Core Functionality
-- ✅ Generate resumes in .docx and PDF formats (ATS-readable)
-- ✅ Single-column, reverse-chronological format (most ATS-friendly)
-- ✅ No tables, text boxes, headers/footers, graphics, icons, or images
-- ✅ Standard resume sections: Contact Info, Summary, Skills, Experience, Education, Projects, Certifications
+- Generate resumes in .docx and PDF formats (ATS-readable)
+- Single-column, reverse-chronological format (most ATS-friendly)
+- No tables, text boxes, headers/footers, graphics, icons, or images
+- Standard resume sections: Contact Info, Summary, Skills, Experience, Education, Projects, Certifications
 
 ### ATS Optimization
-- ✅ ATS-friendly fonts: Arial, Calibri, Times New Roman, Helvetica
-- ✅ Proper font sizes: 10–12pt body, 14–16pt headings
-- ✅ Plain text headings (not styled images)
-- ✅ Standard date formats (MM/YYYY or Month YYYY)
-- ✅ Optimal length: 1 page for freshers, max 2 pages for experienced
+- ATS-friendly fonts: Arial, Calibri, Times New Roman, Helvetica
+- Proper font sizes: 10–12pt body, 14–16pt headings
+- Plain text headings (not styled images)
+- Standard date formats (MM/YYYY or Month YYYY)
+- Optimal length: 1 page for freshers, max 2 pages for experienced
 
 ### Scoring & Analysis
 - ✅ Real-time ATS score calculation (targets 90%+)
