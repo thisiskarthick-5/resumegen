@@ -18,20 +18,20 @@ A fully-fledged React-based ATS Resume Generator that produces resumes scoring 9
 - Optimal length: 1 page for freshers, max 2 pages for experienced
 
 ### Scoring & Analysis
-- ✅ Real-time ATS score calculation (targets 90%+)
-- ✅ Keyword matching with job descriptions
-- ✅ Action verb suggestions
-- ✅ Metrics encouragement for quantified achievements
-- ✅ Skill density analysis
-- ✅ Format validation and warnings
+-  Real-time ATS score calculation (targets 90%+)
+-  Keyword matching with job descriptions
+-  Action verb suggestions
+-  Metrics encouragement for quantified achievements
+-  Skill density analysis
+-  Format validation and warnings
 
 ### User Experience
-- ✅ Sidebar form inputs with live preview
-- ✅ Add, edit, delete, reorder sections
-- ✅ Multiple ATS-friendly templates
-- ✅ Job description upload for keyword optimization
-- ✅ Auto-save to LocalStorage
-- ✅ Professional, minimal UI with smooth animations
+-  Sidebar form inputs with live preview
+-  Add, edit, delete, reorder sections
+-  Multiple ATS-friendly templates
+-  Job description upload for keyword optimization
+-  Auto-save to LocalStorage
+-  Professional, minimal UI with smooth animations
 
 ## Tech Stack
 
